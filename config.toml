@@ -8,7 +8,7 @@ enableRobotsTXT = true
 # google analytics tracking id
 googleAnalytics = ""
 
-#enableGitInfo = true
+enableGitInfo = true
 pygmentsCodeFences = true
 
 # Multilangues setup
